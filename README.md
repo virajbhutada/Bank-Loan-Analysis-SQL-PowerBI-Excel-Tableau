@@ -1,4 +1,4 @@
-# Bank Loan Analysis Using SQL, Power BI, Excel, and Tableau
+# Bank Loan Analysis 
 
 ## Project Overview
 
@@ -180,7 +180,7 @@ If you'd like to contribute to this project, please follow the standard fork, br
 
 ## License
 
-This project is licensed under the MIT License.
+This project is distributed under the [MIT License](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/LICENSE) granting you the freedom to adapt and utilize the codebase as needed.
 
 ---
 
