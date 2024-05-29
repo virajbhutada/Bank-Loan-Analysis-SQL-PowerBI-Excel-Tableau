@@ -24,7 +24,7 @@ The project is based on a comprehensive [dataset](https://github.com/virajbhutad
 ## Methodology
 
 1. **Data Ingestion and Database Creation**: 
-    - A relational database was created in SQL Server to store the loan data.
+    - A relational database was created in Microsoft SQL Server to store the loan data.
 2. **Data Analysis and SQL Queries**: 
     - SQL queries were crafted to extract key performance indicators (KPIs), such as total and monthly loan applications, funded amounts, and average interest rates.
 3. **Data Processing in Excel**:
