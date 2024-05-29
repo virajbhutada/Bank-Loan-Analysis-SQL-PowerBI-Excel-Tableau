@@ -1,4 +1,4 @@
-# Comprehensive Bank Loan Analysis Using SQL, Power BI, Excel, and Tableau
+# Bank Loan Analysis Using SQL, Power BI, Excel, and Tableau
 
 ## Project Overview
 
