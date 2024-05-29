@@ -84,7 +84,7 @@ This project offers valuable insights into the bank's loan portfolio, highlighti
 
 ---
 
-### Terminologies Used in Data
+## Terminologies Used in Data
 
 | **Field**               | **Purpose**                                                                                                                                          | **Use for Banks**                                                                                                                       |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -181,3 +181,9 @@ If you'd like to contribute to this project, please follow the standard fork, br
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## Connect With Me 
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
