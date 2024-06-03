@@ -1,5 +1,5 @@
 # Bank Loan Analysis 
----
+
 ## Project Overview
 
 This project delves into a detailed analysis of bank loan data, utilizing SQL for data querying and manipulation, followed by visualization and further analysis in Power BI, Excel, and Tableau. The primary goal is to uncover insights related to loan applications, funding, repayments, and borrower demographics. The analysis spans various dimensions, including temporal (month, term), geographical (state), and categorical aspects (purpose, home ownership).
