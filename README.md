@@ -14,9 +14,6 @@
 - [Principal Visualizations](#principal-visualizations)
 - [Terminologies Used in Data](#terminologies-used-in-data)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation and Setup](#installation-and-setup)
-  - [Running the Analysis](#running-the-analysis)
 - [Contribution](#contribution)
 - [Conclusion](#conclusion)
 - [MIT License](#mit-license)
@@ -109,10 +106,16 @@ The project is based on a comprehensive [dataset](https://github.com/virajbhutad
 
 ---
 
-### Power BI Dashboard
-[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI%20Dashboard-Live%20Link-gold?logo=powerbi)](https://app.powerbi.com/links/TKA2t1DcsX?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare)
 
-*Explore our live Power BI dashboard for interactive data visualizations and detailed insights into our bank loan analysis.*
+### Data Visualization Interfaces
+
+Dive deeper into our bank loan analysis project with our interactive data visualization dashboards! These dashboards offer a compelling way to explore the data and gain valuable insights.
+
+| Tool        | Power BI                                                                                                                | Tableau                                                                                                               |
+|-------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Link**    | [![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-View%20Dashboard-gold?logo=powerbi)](https://app.powerbi.com/links/TKA2t1DcsX?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare) | [![Tableau](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/viz/BankLoanReport_17159359867640/Summary) |
+| **Overview** | This report provides comprehensive visualizations of key metrics related to the bank loan analysis.                | This Data Viz offers a complementary view of the data, focusing on different aspects of the bank loan analysis.       |
+| **Features** | - Explore loan performance trends.<br> - Identify patterns in borrower demographics.<br> - Gain deeper understanding through interactive filters and drill-downs. | - Utilize interactive charts and graphs.<br> - Uncover relationships and trends.<br> - Gain a well-rounded perspective on the loan portfolio. |
 
 ---
 
@@ -160,18 +163,18 @@ The project is based on a comprehensive [dataset](https://github.com/virajbhutad
     git clone https://github.com/yourusername/bank-loan-analysis.git
     ```
 2. **Database Setup**:
-    - Use the provided SQL script (`loan_queries.sql`) to set up the database in SQL Management Server.
+    - Use the provided [SQL](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/sql/loan_queries.sql) script to set up the database in SQL Management Server.
     - Import the loan dataset into the created database.
 
 3. **Excel Setup**:
-    - Open the provided Excel file (`loan_data_analysis.xlsx`) to review preliminary analyses and data processing steps.
+    - Open the provided [Excel file](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/excel/loan_data_analysis.xlsx) to review preliminary analyses and data processing steps.
 
 4. **Power BI Setup**:
-    - Open the provided Power BI file (`bank_loan_data_insights.pbix`).
-    - Connect the Power BI file to your SQL Server database.
+    - Open the provided [Power BI](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/powerBI/bank_loan_data_insights.pbix) file.
+    - Connect the BI file to your SQL Server database.
 
 5. **Tableau Setup**:
-    - Open the provided Tableau workbook (`bank_loan_data_viz.twb`).
+    - Open the provided [Tableau](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/tableau/bank_loan_data_viz.twbx) workbook.
     - Connect the Tableau workbook to your SQL Server database.
 
 ### Running the Analysis
