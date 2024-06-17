@@ -1,4 +1,25 @@
+![Screenshot 2024-06-17 112434](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/4ffedfcb-7fb7-436c-94d6-2dd5d39dbe94)
+
 # Bank Loan Analysis 
+
+### Table of Contents
+
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Methodology](#methodology)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Tools and Technologies Used](#tools-and-technologies-used)
+- [Future Work](#future-work)
+- [Principal Visualizations](#principal-visualizations)
+- [Terminologies Used in Data](#terminologies-used-in-data)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation and Setup](#installation-and-setup)
+  - [Running the Analysis](#running-the-analysis)
+- [Contribution](#contribution)
+- [Conclusion](#conclusion)
+- [MIT License](#mit-license)
 
 ## Project Overview
 
@@ -75,15 +96,15 @@ The project is based on a comprehensive [dataset](https://github.com/virajbhutad
 
 ---
 
-## Key Visualizations
+## Principal Visualizations
 
-### Summary Dashboard
+### Summary Panel
 ![summary](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/05d19ea3-9f54-4dbb-b4f3-b3e22c57d47c)
 
-### Overview Dashboard
+### Overview Display
 ![overview](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/51acbbeb-90ea-4d62-bceb-82178e741e98)
 
-### Detailed Insights Dashboard
+### Detailed Insights Interface
 ![details](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/45f862e3-1205-4899-955e-79c3b7176673)
 
 ---
@@ -211,7 +232,7 @@ Thank you for exploring the bank loan analysis project. We look forward to conti
 
 ---
 
-## License
+## MIT License
 
 This project is distributed under the [MIT License](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/LICENSE) granting you the freedom to adapt and utilize the codebase as needed.
 
@@ -219,5 +240,5 @@ This project is distributed under the [MIT License](https://github.com/virajbhut
 
 ## Connect With Me 
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)** [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-lightblue?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-lightblue?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)**
 
