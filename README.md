@@ -40,22 +40,43 @@ The project is based on a comprehensive [dataset](https://github.com/virajbhutad
 
 ---
 
+
 ## Methodology
 
-1. **Data Ingestion and Database Creation**: 
-    - A relational database was created in Microsoft SQL Server to store the loan data.
-2. **Data Analysis and SQL Queries**: 
-    - SQL queries were crafted to extract key performance indicators (KPIs), such as total and monthly loan applications, funded amounts, and average interest rates.
-3. **Data Processing in Excel**:
-    - The dataset was further cleaned, processed, and analyzed using Excel for preliminary insights and data validation.
-4. **Categorization of Loans**: 
-    - Loans were categorized as 'Good' or 'Bad' based on repayment status.
-5. **Temporal and Categorical Analysis**: 
-    - Analysis was performed based on issue month, state, loan term, employee length, loan purpose, and home ownership.
-6. **Visualization**: 
-    - Outputs from SQL queries were visualized using Power BI, Excel, and Tableau to ensure data consistency and provide a graphical representation of the findings.
+Our approach to analyzing the bank loan data involved a multi-step, systematic process designed to ensure thorough data examination and insightful visualization. Below, we outline each stage of our methodology:
+
+### Data Ingestion and Database Creation:
+
+- **Objective**: Establish a robust foundation for data storage and retrieval.
+- **Process**: A relational database was created in Microsoft SQL Server to store comprehensive loan data, ensuring data integrity and accessibility.
+
+### Data Analysis and SQL Queries:
+
+- **Objective**: Extract meaningful insights and key performance indicators (KPIs).
+- **Process**: SQL queries were meticulously developed to retrieve essential KPIs, including total and monthly loan applications, funded amounts, and average interest rates. This step facilitated the identification of critical trends and performance metrics.
+
+### Data Processing in Excel:
+
+- **Objective**: Perform initial data cleaning and preliminary analysis.
+- **Process**: The dataset underwent further cleaning and processing in Excel, which included data validation and the generation of preliminary insights. This step ensured the accuracy and reliability of the data before more advanced analysis.
+
+### Categorization of Loans:
+
+- **Objective**: Classify loans based on repayment performance.
+- **Process**: Loans were categorized into 'Good' or 'Bad' based on their repayment status. This classification provided a clear distinction between performing and non-performing loans, which is crucial for risk assessment and management.
+
+### Temporal and Categorical Analysis:
+
+- **Objective**: Examine the data across various dimensions and time frames.
+- **Process**: Detailed analysis was conducted based on multiple factors, including issue month, state, loan term, employee length, loan purpose, and home ownership status. This multifaceted analysis enabled a comprehensive understanding of the factors influencing loan performance.
+
+### Visualization:
+
+- **Objective**: Transform data into actionable visual insights.
+- **Process**: The results from the SQL queries were visualized using Power BI, Excel, and Tableau. These visualizations were designed to ensure data consistency and to provide a clear, graphical representation of the findings. This step was critical for communicating insights effectively to stakeholders.
 
 ---
+
 
 ## Key Insights and Findings
 
