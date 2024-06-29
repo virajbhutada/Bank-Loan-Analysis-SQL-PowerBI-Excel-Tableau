@@ -12,6 +12,7 @@
 - [Tools and Technologies Used](#tools-and-technologies-used)
 - [Future Work](#future-work)
 - [Principal Visualizations](#principal-visualizations)
+- [Data Visualization Interfaces](#data-visualization-interfaces)
 - [Terminologies Used in Data](#terminologies-used-in-data)
 - [Getting Started](#getting-started)
 - [Contribution](#contribution)
@@ -106,16 +107,32 @@ The project is based on a comprehensive [dataset](https://github.com/virajbhutad
 
 ---
 
-
-### Data Visualization Interfaces
+## Data Visualization Interfaces
 
 Dive deeper into our bank loan analysis project with our interactive data visualization dashboards! These dashboards offer a compelling way to explore the data and gain valuable insights.
 
-| Tool        | Power BI                                                                                                                | Tableau                                                                                                               |
-|-------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Link**    | [![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-View%20Dashboard-gold?logo=powerbi)](https://app.powerbi.com/links/TKA2t1DcsX?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare) | [![Tableau](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-lightblue?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/viz/BankLoanReport_17159359867640/Summary) |
-| **Overview** | This report provides comprehensive visualizations of key metrics related to the bank loan analysis.                | This Data Viz offers a complementary view of the data, focusing on different aspects of the bank loan analysis.       |
-| **Features** | - Explore loan performance trends.<br> - Identify patterns in borrower demographics.<br> - Gain deeper understanding through interactive filters and drill-downs. | - Utilize interactive charts and graphs.<br> - Uncover relationships and trends.<br> - Gain a well-rounded perspective on the loan portfolio. |
+<table>
+  <tr>
+    <th>Tool</th>
+    <th>Power BI</th>
+    <th>Tableau</th>
+  </tr>
+  <tr>
+    <td><strong>Link</strong></td>
+    <td align="center"><a href="https://app.powerbi.com/links/TKA2t1DcsX?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare"><img src="https://img.shields.io/badge/Microsoft%20Power%20BI-View%20Dashboard-gold?logo=powerbi" alt="Power BI"></a></td>
+    <td align="center"><a href="https://public.tableau.com/app/profile/viraj.bhutada/viz/BankLoanReport_17159359867640/Summary"><img src="https://img.shields.io/badge/Tableau%20Public-Explore%20Data%20Viz-lightblue?logo=tableau" alt="Tableau"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Overview</strong></td>
+    <td>This report provides comprehensive visualizations of key metrics related to the bank loan analysis.</td>
+    <td>This Data Viz offers a complementary view of the data, focusing on different aspects of the bank loan analysis.</td>
+  </tr>
+  <tr>
+    <td><strong>Features</strong></td>
+    <td>• Explore loan performance trends.<br>• Identify patterns in borrower demographics.<br>• Gain deeper understanding through interactive filters and drill-downs.</td>
+    <td>• Utilize interactive charts and graphs.<br>• Uncover relationships and trends.<br>• Gain a well-rounded perspective on the loan portfolio.</td>
+  </tr>
+</table>
 
 ---
 
@@ -241,7 +258,7 @@ This project is distributed under the [MIT License](https://github.com/virajbhut
 
 ---
 
-## Connect With Me 
+### Connect With Me 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-%23003366?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)**
 
