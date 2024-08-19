@@ -283,6 +283,6 @@ This project is distributed under the [MIT License](https://github.com/virajbhut
 
 ### Connect With Me 
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-%23003366?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-%23003366?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada)**
 
 
