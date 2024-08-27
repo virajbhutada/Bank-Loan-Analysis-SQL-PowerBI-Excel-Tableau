@@ -2,7 +2,7 @@
 
 # Bank Loan Portfolio Assessment
 
----
+
 
 ## Table of Contents
 
