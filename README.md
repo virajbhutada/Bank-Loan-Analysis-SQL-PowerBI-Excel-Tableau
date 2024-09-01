@@ -2,8 +2,6 @@
 
 # Bank Loan Portfolio Assessment
 
-
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
