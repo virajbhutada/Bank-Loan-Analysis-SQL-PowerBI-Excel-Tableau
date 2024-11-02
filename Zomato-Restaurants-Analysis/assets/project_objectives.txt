@@ -1,0 +1,20 @@
+1. Develop a comprehensive Country Map Table.
+2. Construct a Calendar Table utilizing the Column Datekey. Populate the Calendar Table with the following Columns utilizing appropriate Formulas:
+   A. Year
+   B. Month Number
+   C. Full Month Name
+   D. Quarter (Q1, Q2, Q3, Q4)
+   E. Year-Month (YYYY-MMM)
+   F. Weekday Number
+   G. Weekday Name
+   H. Financial Month (April = FM1, May = FM2, ..., March = FM12)
+   I. Financial Quarter (Quarters based on Financial Month)
+3. Determine the Number of Restaurants based on City and Country.
+4. Calculate the Number of Restaurants opening based on Year, Quarter, and Month.
+5. Compute the Count of Restaurants based on Average Ratings.
+6. Generate buckets based on the Average Price of reasonable size and determine the quantity of restaurants falling into each bucket.
+7. Calculate the Percentage of Restaurants based on "Has_Table_booking".
+8. Determine the Percentage of Restaurants based on "Has_Online_delivery".
+9. Develop Charts based on Cuisines, City, and Ratings.
+
+Note: Key Performance Indicators (KPIs) are not limited solely to the above; experimentation with additional KPIs is encouraged.
